@@ -5,50 +5,53 @@ Welcome to the **Qubit & IBM Qiskit Fall Fest 2024** repository! This event is p
 
 ## Agenda
 
-### **Day 1: Introduction to Quantum Mechanics and Computing**
+# Qiskit Fall Fest 2024 Event Plan
 
-1. **Quantum Mechanics**
-   - Dual Nature of Matter and Wave Properties
-   - Heisenberg's Uncertainty Principle
+Welcome to the Qiskit Fall Fest 2024! This event is designed to immerse participants in the world of quantum computing through workshops and a hackathon. Below is the detailed plan for the event.
 
-2. **How Do Computers Work?**
-   - Overview of classical computing principles and binary systems.
+## Event Schedule
 
-3. **Why Quantum? Classical vs Quantum**
-   - Comparison of classical vs quantum computing and their respective advantages.
+### 7th September 2024: Hackathon Problem Statement Release
 
-4. **Qubits**
-   - Introduction to qubits and how they differ from classical bits.
+- **Description**: The problem statement for the hackathon will be released. The challenge will involve leveraging quantum computing concepts and tools to address real-world problems.
+- **Objective**: Kick-off of the hackathon. Participants will receive the problem statement, giving them time to strategize and plan their submissions.
 
-5. **Superposition, Entanglement, and Measurement**
-   - Superposition: Qubits existing in multiple states simultaneously.
-   - Entanglement: Quantum correlation between qubits.
-   - Measurement: The impact of measuring a quantum state.
+### 8th September 2024 (Day 1): Workshop 1 - Introduction to Quantum Mechanics and Computing
 
-6. **(If time permits) Current Scenario and Prospects of Quantum Computers**
-   - A brief look at the current state of quantum computing and future prospects.
+- **Overview**: This workshop will cover the fundamentals of quantum mechanics and how they lay the groundwork for quantum computing.
+- **Key Topics**:
+  - **Quantum Mechanics**:
+    - Dual nature of matter and wave properties
+    - Heisenberg's Uncertainty Principle
+  - **How Classical Computers Work**:
+    - Understanding binary systems and classical logic gates
+  - **Why Quantum? Classical vs. Quantum Computing**:
+    - Comparison between classical and quantum systems
+  - **Qubits**:
+    - Introduction to qubits and their properties
+    - Superposition, Entanglement, and Measurement
+  - **If Time Permits**:
+    - Current Scenario and Prospects of Quantum Computers
+    - Brief Overview of Research Domains in Quantum Computing
 
-7. **Brief Overview of Research Domains in Quantum Computing**
-   - Exploration of research areas such as quantum algorithms, cryptography, and error correction.
+### 9th September 2024 (Day 2): Workshop 2 - Deeper Dive into Quantum Computing
 
-### **Day 2: Deeper Dive into Quantum Computing**
+- **Overview**: A deeper exploration of quantum computing concepts and practical applications.
+- **Key Topics**:
+  - **Recap of Day 1**: Review of the major points from the previous day
+  - **Classical Gates**: Refresher on classical logic gates like AND, OR, and NOT
+  - **Bra-Ket Notation**: Introduction to Dirac’s notation for quantum states
+  - **Quantum Gates**:
+    - Learning about quantum gates such as Pauli-X, Hadamard, and CNOT
+  - **Matrix Notation of Quantum Gates and the Bloch Sphere (If Time Permits)**:
+    - Understanding the matrix representation of quantum gates and visualizing qubits on the Bloch Sphere
+  - **Hands-on with Qiskit Composer**:
+    - Creating quantum circuits using IBM’s Qiskit Composer
 
-#### **Recap of Day 1**
+### 10th September 2024: Hackathon Submission Deadline
 
-1. **Classical Gates**
-   - Review of basic classical logic gates (AND, OR, NOT).
-
-2. **Bra-Ket Notation**
-   - Introduction to Dirac's bra-ket notation for representing quantum states.
-
-3. **Quantum Gates**
-   - Introduction to quantum gates like Pauli-X, Hadamard, and CNOT.
-
-4. **Matrix Notation of Gates and the Bloch Sphere** (If time permits)
-   - Matrix representation of quantum gates and visualization of qubits on the Bloch Sphere.
-
-5. **Hands-on: Qiskit Composer**
-   - Demonstration of quantum circuits using Qiskit Composer.
+- **Description**: The hackathon ends on this day. Participants are expected to submit their solutions by the end of the day.
+- **Evaluation Criteria**: Submissions will be evaluated based on creativity, understanding of quantum concepts, and practical application of quantum computing.
 
 ## Organizing Team & Contact Info
 
