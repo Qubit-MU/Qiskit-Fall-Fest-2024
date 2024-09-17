@@ -55,9 +55,3 @@ Welcome to the **Qubit & IBM Qiskit Fall Fest 2024** repository! This event is p
 - **T. Jugal Kishore Reddy**
 
 For any queries related to the event, feel free to reach out to any of the team members listed above.
-
-## Attendees for the Workshop
-
-The workshop witnessed the participation of **around 200 students**, ranging from **1st-year undergraduates to PhD-level students**, showcasing a diverse and enthusiastic crowd eager to explore the world of quantum computing.
-
-Stay tuned for more updates and details about the sessions! Feel free to explore and contribute to the repository as we prepare for this exciting event.
