@@ -5,12 +5,6 @@ Welcome to the **Qubit & IBM Qiskit Fall Fest 2024** repository! This event is p
 
 ## Agenda
 
-# Qiskit Fall Fest 2024 Event Plan
-
-Welcome to the Qiskit Fall Fest 2024! This event is designed to immerse participants in the world of quantum computing through workshops and a hackathon. Below is the detailed plan for the event.
-
-## Event Schedule
-
 ### 7th September 2024: Hackathon Problem Statement Release
 
 - **Description**: The problem statement for the hackathon will be released. The challenge will involve leveraging quantum computing concepts and tools to address real-world problems.
