@@ -59,5 +59,6 @@ Welcome to the **Qubit & IBM Qiskit Fall Fest 2024** repository! This event is p
 - **Sreeraj**
 - **Ritika**
 - **T. Jugal Kishore Reddy**
+- **Krishna Chaithanya**
 
 For any queries related to the event, feel free to reach out to any of the team members listed above.
