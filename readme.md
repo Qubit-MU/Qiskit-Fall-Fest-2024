@@ -102,7 +102,7 @@ This resource will help you further explore quantum computing concepts on **Day 
 
 - **Jayasri D**
 - **Sreeraj rajan**
-- **Ritika Buchupalli**
+- [**Ritika Buchupalli**](https://github.com/ritika0101)
 - [**T. Jugal Kishore Reddy**](https://github.com/tjkreddy)
 - **Krishna Chaithanya P**
 
