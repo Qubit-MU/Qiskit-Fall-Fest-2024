@@ -63,6 +63,11 @@ Connect with us on Discord: [Join the Discord Server](https://discord.gg/hUPfNgT
 - **Description**: The hackathon ends on this day. Participants are expected to submit their solutions by the end of the day.
 - **Evaluation Criteria**: Submissions will be evaluated based on creativity, understanding of quantum concepts, and practical application of quantum computing.
 
+## Giveaways
+
+We are excited to announce that we will be giving away some awesome goodies and certificates! Participate in our events and activities for a chance to win these exciting rewards. Stay tuned for more details!
+
+
 ## Resourses
 
 ### IBM Quantum Composer
@@ -98,7 +103,7 @@ This resource will help you further explore quantum computing concepts on **Day 
 - **Jayasri D**
 - **Sreeraj rajan**
 - **Ritika Buchupalli**
-- **T. Jugal Kishore Reddy**
+- [**T. Jugal Kishore Reddy**](https://github.com/tjkreddy)
 - **Krishna Chaithanya P**
 
 For any queries related to the event, feel free to reach out to any of the team members listed above.
