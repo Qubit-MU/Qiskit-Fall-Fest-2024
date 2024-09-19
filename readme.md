@@ -3,7 +3,7 @@
 
 Welcome to the **Qubit & IBM Qiskit Fall Fest 2024** repository! This event is part of the global series of Qiskit Fall Fest events, where quantum enthusiasts from around the world come together to learn, collaborate, and explore the exciting field of quantum computing.
 
-# Event Details
+## Event Details
 
 **Date:** 7th - 9th October 2024  
 **Venue:** Main Block  
