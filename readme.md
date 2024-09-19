@@ -93,3 +93,5 @@ This resource will help you further explore quantum computing concepts on **Day 
 - **Krishna Chaithanya P**
 
 For any queries related to the event, feel free to reach out to any of the team members listed above.
+
+![Quantum Computing](quantum-computing.png)  <!-- Adjust the path accordingly -->
