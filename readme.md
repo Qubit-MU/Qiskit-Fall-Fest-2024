@@ -11,6 +11,13 @@ Welcome to the **Qubit & IBM Qiskit Fall Fest 2024** repository! This event is p
 **Venue:** Ecole Centrale Mahindra University, Main Block.  
 **Timings:** 6:30pm - 8:30pm.
 
+## Registration Link
+
+To register for the event, please fill out the form: [Registration Form](https://forms.office.com/r/Yy9FjbtQUH)
+
+## Join Our Discord
+
+Connect with us on Discord: [Join the Discord Server](https://discord.gg/hUPfNgT6)
 
 ## Agenda
 
