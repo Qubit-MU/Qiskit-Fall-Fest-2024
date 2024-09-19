@@ -75,6 +75,14 @@ Below are some essential resources to help you get started with **Day 1** of you
 
 3. [IBM Quantum Computing Roadmap](https://www.ibm.com/roadmaps/quantum/)
    - Explore IBM's vision and development roadmap for the future of quantum computing technology.
+These resources will help guide you through the quantum computing concepts and tools for **Day 1**.
+
+Below are some essential resources to help you get started with **Day 2** of your quantum computing journey:
+
+1. [Quantum Country - Quantum Computing Visualized](https://quantum.country/qcvc)
+   - This interactive resource provides a deep dive into quantum computing concepts, using a visual and memory-aid approach to help you learn efficiently.
+
+This resource will help you further explore quantum computing concepts on **Day 2**.
 
 ## Organizing Team & Contact Info
 
