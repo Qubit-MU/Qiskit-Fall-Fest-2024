@@ -5,7 +5,7 @@ Welcome to the **Qubit & IBM Qiskit Fall Fest 2024** repository! This event is p
 
 ## Event Details
 
-**Date:** 7th - 9th October 2024  
+**Date:** 7th - 10th October 2024  
 **Venue:** Main Block  
 
 
