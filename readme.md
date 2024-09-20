@@ -21,12 +21,12 @@ Connect with us on Discord: [Join the Discord Server](https://discord.gg/hUPfNgT
 
 ## Agenda
 
-### 7th September 2024: Hackathon Problem Statement Release
+### 7th October 2024: Hackathon Problem Statement Release
 
 - **Description**: The problem statement for the hackathon will be released. The challenge will involve leveraging quantum computing concepts and tools to address real-world problems.
 - **Objective**: Kick-off of the hackathon. Participants will receive the problem statement, giving them time to strategize and plan their submissions.
 
-### 8th September 2024 (Day 1): Workshop 1 - Introduction to Quantum Mechanics and Computing
+### 8th October 2024 (Day 1): Workshop 1 - Introduction to Quantum Mechanics and Computing
 
 - **Overview**: This workshop will cover the fundamentals of quantum mechanics and how they lay the groundwork for quantum computing.
 - **Key Topics**:
@@ -44,7 +44,7 @@ Connect with us on Discord: [Join the Discord Server](https://discord.gg/hUPfNgT
     - Current Scenario and Prospects of Quantum Computers
     - Brief Overview of Research Domains in Quantum Computing
 
-### 9th September 2024 (Day 2): Workshop 2 - Deeper Dive into Quantum Computing
+### 9th October 2024 (Day 2): Workshop 2 - Deeper Dive into Quantum Computing
 
 - **Overview**: A deeper exploration of quantum computing concepts and practical applications.
 - **Key Topics**:
@@ -58,7 +58,7 @@ Connect with us on Discord: [Join the Discord Server](https://discord.gg/hUPfNgT
   - **Hands-on with Qiskit Composer**:
     - Creating quantum circuits using IBM’s Qiskit Composer
 
-### 10th September 2024: Hackathon Submission Deadline
+### 10th October 2024: Hackathon Submission Deadline
 
 - **Description**: The hackathon ends on this day. Participants are expected to submit their solutions by the end of the day.
 - **Evaluation Criteria**: Submissions will be evaluated based on creativity, understanding of quantum concepts, and practical application of quantum computing.
