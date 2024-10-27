@@ -65,15 +65,17 @@ We concluded the workshops with a multi-level hackathon, releasing customized Ju
 
 - **1st & 2nd-year students**: Two levels 🏅
 - **3rd-year students**: Three levels 🏅
-- **4th-year students**: Two levels 🏅
+- **4th-year students**: one levels 🏅
 
 These notebooks are designed to match each group's skill level, providing a structured path to deepen their quantum computing knowledge. 
 
-The prize pool of **₹12,000** added to the excitement, and every participant received goodies and certificates as a token of appreciation for their enthusiasm and hard work!
+
 
 ## Giveaways
 
 We are excited to announce that we will be giving away awesome goodies and certificates! Participate in our events and activities for a chance to win these exciting rewards. Stay tuned for more details!
+
+The prize pool of **₹12,000** added to the excitement, and every participant received goodies and certificates as a token of appreciation for their enthusiasm and hard work!
 
 ## Resources
 
