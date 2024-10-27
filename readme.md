@@ -80,6 +80,9 @@ The prize pool of **₹12,000** added to the excitement, and every participant r
 
 ## Resources
 
+### Hackathon Prompts
+**[click here](https://mahindraecolecentrale-my.sharepoint.com/:f:/g/personal/qubit_mahindrauniversity_edu_in/Ekla7ZvxskNHi1wORPRDW7QB1PDStm38Akzkvge3YZ31Ow?e=3wyI5W)** To Download the Hackathon Jupiter Notebooks.
+
 ### IBM Quantum Composer
 
 We will be using **[IBM Quantum Composer](https://quantum.ibm.com/composer/files/new)** for practical experiments. This tool allows you to design, build, and simulate quantum circuits, enabling hands-on experience with quantum algorithms.
