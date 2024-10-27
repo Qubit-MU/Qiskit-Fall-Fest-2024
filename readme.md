@@ -51,7 +51,7 @@ Connect with us on Discord: [Join the Discord Server](https://discord.gg/hUPfNgT
     - Learning about quantum gates such as Pauli-X, Hadamard, and CNOT
   - **Matrix Notation of Quantum Gates and the Bloch Sphere (If Time Permits)**:
     - Understanding matrix representation of quantum gates and visualizing qubits on the Bloch Sphere
-  - **Hands-on with Qiskit Composer**:
+  - **Hands-on with Qiskit Composer and Coding on Qiskit**:
     - Creating quantum circuits using IBM’s Qiskit Composer
 
 ### 10th October 2024: Hackathon Submission Deadline
