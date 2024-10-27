@@ -21,8 +21,8 @@ Connect with us on Discord: [Join the Discord Server](https://discord.gg/hUPfNgT
 ## Agenda
 
 ### 7th October 2024: Hackathon Problem Statement Release
--**Description**: The problem statement for the hackathon will be released. The challenge will involve leveraging quantum computing concepts  and tools to address real-world problems.
--**Objective**: Kick-off of the hackathon. Participants will receive the problem statement, giving them time to strategize and plan their submissions.
+- **Description**: The problem statement for the hackathon will be released. The challenge will involve leveraging quantum computing concepts  and tools to address real-world problems.
+- **Objective**: Kick-off of the hackathon. Participants will receive the problem statement, giving them time to strategize and plan their submissions.
 
 ### 8th October 2024 (Day 1): Workshop 1 - Introduction to Quantum Mechanics and Computing
 
